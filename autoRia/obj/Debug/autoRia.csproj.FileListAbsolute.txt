@@ -1,0 +1,19 @@
+c:\users\stas\documents\visual studio 2012\Projects\autoRia\autoRia\bin\Debug\autoRia.exe.config
+c:\users\stas\documents\visual studio 2012\Projects\autoRia\autoRia\bin\Debug\autoRia.exe
+c:\users\stas\documents\visual studio 2012\Projects\autoRia\autoRia\bin\Debug\autoRia.pdb
+c:\users\stas\documents\visual studio 2012\Projects\autoRia\autoRia\obj\Debug\autoRia.csprojResolveAssemblyReference.cache
+c:\users\stas\documents\visual studio 2012\Projects\autoRia\autoRia\obj\Debug\autoRia.Properties.Resources.resources
+c:\users\stas\documents\visual studio 2012\Projects\autoRia\autoRia\obj\Debug\autoRia.csproj.GenerateResource.Cache
+c:\users\stas\documents\visual studio 2012\Projects\autoRia\autoRia\obj\Debug\autoRia.exe
+c:\users\stas\documents\visual studio 2012\Projects\autoRia\autoRia\obj\Debug\autoRia.pdb
+c:\users\stas\documents\visual studio 2012\Projects\autoRia\autoRia\obj\Debug\autoRia.autoRiaForm.resources
+c:\users\stas\documents\visual studio 2012\Projects\autoRia\autoRia\bin\Debug\HtmlAgilityPack.dll
+D:\C#\autoRia\autoRia\bin\Debug\autoRia.exe.config
+D:\C#\autoRia\autoRia\obj\Debug\autoRia.exe
+D:\C#\autoRia\autoRia\obj\Debug\autoRia.pdb
+D:\C#\autoRia\autoRia\bin\Debug\autoRia.exe
+D:\C#\autoRia\autoRia\bin\Debug\autoRia.pdb
+D:\C#\autoRia\autoRia\obj\Debug\autoRia.csprojResolveAssemblyReference.cache
+D:\C#\autoRia\autoRia\obj\Debug\autoRia.autoRiaForm.resources
+D:\C#\autoRia\autoRia\obj\Debug\autoRia.Properties.Resources.resources
+D:\C#\autoRia\autoRia\obj\Debug\autoRia.csproj.GenerateResource.Cache
